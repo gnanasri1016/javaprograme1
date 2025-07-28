@@ -1,0 +1,4 @@
+14-07
+init add commit status remote push version 
+21-07
+branch(-d,-a) checkout merge push(-u origin ,--delete) log (--summary) ls-files rm pull clone history
